@@ -1,6 +1,12 @@
 import 'package:flutter/material.dart';
+import 'dart:developer' as dev;
 
-void main() {
+import 'playground//playground.dart';
+
+void main() async {
+  Stream<int> stream = countStream(10);
+  int sum = await sumStream(stream);
+  dev.log('sum : $sum');
   runApp(const MyApp());
 }
 
