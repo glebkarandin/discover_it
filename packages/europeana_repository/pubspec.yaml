@@ -1,4 +1,4 @@
-name: europeana_api
+name: europeana_repository
 description: A new Flutter package project.
 version: 0.0.1
 homepage:
@@ -10,8 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.4
+  equatable: ^2.0.3
   json_annotation: ^4.4.0
+  europeana_api:
+    path: ../europeana_api
 
 dev_dependencies:
   flutter_test:
