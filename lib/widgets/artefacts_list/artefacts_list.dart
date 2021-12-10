@@ -14,7 +14,12 @@ class ArtefactsList extends StatelessWidget {
         builder: (context, state) {
           if(state is EuropeanaSearchCompleteState) {
             dev.log('state : ${state.items.items}');
-            var list = state.items.items.map((e) => const Text('ss')).toList();
+            var list = state.items.items.map((artefact)
+                {
+                  dev.log('artefact : ${artefact.completeness}');
+                  return Text('completeness : ${artefact.completeness}');
+                }
+          ).toList();
             return Center(
               child: ListView(
                 shrinkWrap: true,

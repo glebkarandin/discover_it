@@ -1,7 +1,6 @@
 import 'dart:async';
 
-import 'package:europeana_api/europeana_api.dart' hide Artefacts;
-import 'package:europeana_repository/europeana_repository.dart';
+import 'package:europeana_api/europeana_api.dart';
 
 class EuropeanaRepository {
   EuropeanaRepository({EuropeanaApiClient? apiClient})

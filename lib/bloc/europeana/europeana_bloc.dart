@@ -1,4 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:europeana_api/europeana_api.dart';
 import 'package:europeana_repository/europeana_repository.dart';
 
 import 'europeana_events.dart';

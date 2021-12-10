@@ -1,4 +1,4 @@
-import 'package:europeana_repository/europeana_repository.dart';
+import 'package:europeana_api/europeana_api.dart';
 
 abstract class EuropeanaState {}
 
