@@ -11,5 +11,15 @@ class Artefacts {
   factory Artefacts.fromJson(Map<String, dynamic> json) =>
       _$ArtefactsFromJson(json);
 
-  final List<Object> items;
+  final List<Artefact> items;
+}
+
+@JsonSerializable()
+class Artefact {
+  const Artefact({required this.completeness});
+
+  factory Artefact.fromJson(Map<String, dynamic> json) =>
+      _$ArtefactFromJson(json);
+
+  final int completeness;
 }

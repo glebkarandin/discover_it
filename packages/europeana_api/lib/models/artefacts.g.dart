@@ -13,8 +13,22 @@ Artefacts _$ArtefactsFromJson(Map<String, dynamic> json) => $checkedCreate(
       json,
       ($checkedConvert) {
         final val = Artefacts(
-          items: $checkedConvert('items',
-              (v) => (v as List<dynamic>).map((e) => e as Object).toList()),
+          items: $checkedConvert(
+              'items',
+              (v) => (v as List<dynamic>)
+                  .map((e) => Artefact.fromJson(e as Map<String, dynamic>))
+                  .toList()),
+        );
+        return val;
+      },
+    );
+
+Artefact _$ArtefactFromJson(Map<String, dynamic> json) => $checkedCreate(
+      'Artefact',
+      json,
+      ($checkedConvert) {
+        final val = Artefact(
+          completeness: $checkedConvert('completeness', (v) => v as int),
         );
         return val;
       },

@@ -13,7 +13,14 @@ class ArtefactsList extends StatelessWidget {
     return BlocBuilder<EuropeanaBloc, EuropeanaState>(
         builder: (context, state) {
           if(state is EuropeanaSearchCompleteState) {
-            dev.log('state : ${state.items}');
+            dev.log('state : ${state.items.items}');
+            var list = state.items.items.map((e) => const Text('ss')).toList();
+            return Center(
+              child: ListView(
+                shrinkWrap: true,
+                children: list,
+              )
+            );
           }
           return const Center(
               child: Text('items')
