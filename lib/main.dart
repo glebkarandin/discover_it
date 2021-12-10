@@ -4,8 +4,8 @@ import 'dart:developer' as dev;
 
 import 'package:europeana_repository/europeana_repository.dart';
 
-import 'europeana/bloc/europeana_bloc.dart';
-import 'europeana/bloc/europeana_state.dart';
+import 'bloc/europeana/europeana_bloc.dart';
+import 'bloc/europeana/europeana_state.dart';
 import 'pages/main/main_page.dart';
 import 'playground//playground.dart';
 
