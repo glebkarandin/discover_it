@@ -17,10 +17,12 @@ class ArtefactsList extends StatelessWidget {
             var list = state.items.items.map((artefact)
                 {
                   dev.log('artefact : ${artefact.completeness}');
+                  var edmPreview = artefact.edmPreview ?? [];
+                  var imageUri = edmPreview.isNotEmpty ? edmPreview[0] : '';
                   return Row(
                     children: [
-                      const Expanded(
-                          child: Text('image')
+                      Expanded(
+                          child: Image.network(imageUri)
                       ),
                       Expanded(
                           child: Text('completeness : ${artefact.completeness}')
