@@ -17,14 +17,21 @@ class ArtefactsList extends StatelessWidget {
             var list = state.items.items.map((artefact)
                 {
                   dev.log('artefact : ${artefact.completeness}');
-                  return Text('completeness : ${artefact.completeness}');
+                  return Row(
+                    children: [
+                      const Expanded(
+                          child: Text('image')
+                      ),
+                      Expanded(
+                          child: Text('completeness : ${artefact.completeness}')
+                      ),
+                    ],
+                  );
                 }
           ).toList();
-            return Center(
-              child: ListView(
-                shrinkWrap: true,
-                children: list,
-              )
+            return ListView(
+              shrinkWrap: true,
+              children: list,
             );
           }
           return const Center(

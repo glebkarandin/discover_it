@@ -10,11 +10,14 @@ class MainPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
-      children: const [
-        SearchFormArtefacts(),
-        ArtefactsList()
-      ],
+    return Container(
+      padding: const EdgeInsets.all(20.0),
+      child: Column(
+        children: const [
+          SearchFormArtefacts(),
+          ArtefactsList()
+        ],
+      ),
     );
   }
 }

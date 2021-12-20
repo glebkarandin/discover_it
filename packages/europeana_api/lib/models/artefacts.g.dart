@@ -29,6 +29,8 @@ Artefact _$ArtefactFromJson(Map<String, dynamic> json) => $checkedCreate(
       ($checkedConvert) {
         final val = Artefact(
           completeness: $checkedConvert('completeness', (v) => v as int),
+          edmPreview: $checkedConvert('edmPreview',
+              (v) => (v as List<dynamic>).map((e) => e as String).toList()),
         );
         return val;
       },

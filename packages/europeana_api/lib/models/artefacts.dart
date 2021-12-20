@@ -16,10 +16,19 @@ class Artefacts {
 
 @JsonSerializable()
 class Artefact {
-  const Artefact({required this.completeness});
+  const Artefact({
+    required this.completeness,
+    required this.edmPreview,
+  });
 
   factory Artefact.fromJson(Map<String, dynamic> json) =>
       _$ArtefactFromJson(json);
 
-  final int completeness;
+  final int? completeness;
+  final List<String>? edmPreview;
+
+  @override
+  String toString() {
+    return 'completeness : $completeness ::: edmPreview : $edmPreview';
+  }
 }
