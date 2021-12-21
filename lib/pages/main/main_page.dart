@@ -1,5 +1,5 @@
-import 'package:discover_it/widgets/artefacts_list/artefacts_list.dart';
 import 'package:flutter/material.dart';
+import 'package:beamer/beamer.dart';
 
 import '../../widgets/search_form_artefacts/search_form_artefacts.dart';
 
@@ -10,13 +10,17 @@ class MainPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      padding: const EdgeInsets.all(20.0),
-      child: Column(
-        children: const [
-          SearchFormArtefacts(),
-          ArtefactsList()
-        ],
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Discover it!'),
+      ),
+      body: Container(
+        padding: const EdgeInsets.all(20.0),
+        child: Column(
+          children: const [
+            SearchFormArtefacts(),
+          ],
+        ),
       ),
     );
   }

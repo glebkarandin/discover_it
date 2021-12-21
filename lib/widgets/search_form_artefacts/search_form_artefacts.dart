@@ -1,3 +1,4 @@
+import 'package:beamer/beamer.dart';
 import 'package:discover_it/bloc/europeana/europeana_bloc.dart';
 import 'package:discover_it/bloc/europeana/europeana_events.dart';
 import 'package:flutter/material.dart';
@@ -44,6 +45,8 @@ class SearchFormState extends State<SearchFormArtefacts> {
                       dev.log('form key state: ${_formKey.currentState}');
                       dev.log('query string $queryString');
                       context.read<EuropeanaBloc>().add(EuropeanaSearchEvent(queryString));
+                      // Beamer.of(context).beamToNamed('/my/page/2')
+                      Beamer.of(context).beamToNamed('/artefacts');
                     },
                     child: const Text('submit')
                 )
