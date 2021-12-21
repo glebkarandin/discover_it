@@ -31,9 +31,11 @@ class ArtefactsList extends StatelessWidget {
                   );
                 }
           ).toList();
-            return ListView(
-              shrinkWrap: true,
-              children: list,
+            return Expanded(
+                child: ListView(
+                  shrinkWrap: true,
+                  children: list,
+                )
             );
           }
           return const Center(
