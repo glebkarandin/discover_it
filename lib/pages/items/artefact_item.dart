@@ -5,6 +5,10 @@ class ArtefactItem extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Text('artefact item');
+    return const Scaffold(
+      body: Center(
+        child: Text('artefact item'),
+      ),
+    );
   }
 }
