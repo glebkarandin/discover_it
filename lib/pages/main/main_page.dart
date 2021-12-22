@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:beamer/beamer.dart';
 
 import '../../widgets/search_form_artefacts/search_form_artefacts.dart';
 

@@ -45,7 +45,6 @@ class SearchFormState extends State<SearchFormArtefacts> {
                       dev.log('form key state: ${_formKey.currentState}');
                       dev.log('query string $queryString');
                       context.read<EuropeanaBloc>().add(EuropeanaSearchEvent(queryString));
-                      // Beamer.of(context).beamToNamed('/my/page/2')
                       Beamer.of(context).beamToNamed('/artefacts');
                     },
                     child: const Text('submit')
