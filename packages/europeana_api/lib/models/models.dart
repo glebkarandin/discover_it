@@ -1,1 +1,2 @@
-export './artefacts.dart';
+export 'artefacts.dart';
+export 'artefact_record.dart';

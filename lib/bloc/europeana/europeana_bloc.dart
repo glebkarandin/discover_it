@@ -10,6 +10,7 @@ import 'dart:developer' as dev;
 class EuropeanaBloc extends Bloc<EuropeanaEvent, EuropeanaState> {
   EuropeanaBloc(EuropeanaState initialState) : super(initialState) {
     on<EuropeanaSearchEvent>(_onSearchEvent);
+    on<EuropeanaRecordEvent>(_onRecordEvent);
   }
 
   void _onSearchEvent (event, emit) async {
@@ -24,5 +25,16 @@ class EuropeanaBloc extends Bloc<EuropeanaEvent, EuropeanaState> {
 
     }
 
+  }
+
+  void _onRecordEvent(event, emit) async {
+    dev.log('on record event ${event.queryString}');
+    final repo = EuropeanaApiClient();
+    try {
+      final record = await repo.artefactRecord(event.queryString);
+      emit(EuropeanaRecordCompleteState(record));
+    } catch (e) {
+
+    }
   }
 }

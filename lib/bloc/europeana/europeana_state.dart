@@ -13,3 +13,9 @@ class EuropeanaSearchCompleteState extends EuropeanaState {
 
   Artefacts get items => artefacts;
 }
+
+class EuropeanaRecordCompleteState extends EuropeanaState {
+  EuropeanaRecordCompleteState(this.record);
+
+  ArtefactRecord record;
+}

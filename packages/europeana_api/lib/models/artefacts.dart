@@ -19,6 +19,7 @@ class Artefact {
   const Artefact({
     required this.completeness,
     required this.edmPreview,
+    required this.id,
   });
 
   factory Artefact.fromJson(Map<String, dynamic> json) =>
@@ -26,9 +27,10 @@ class Artefact {
 
   final int? completeness;
   final List<String>? edmPreview;
+  final String? id;
 
   @override
   String toString() {
-    return 'completeness : $completeness ::: edmPreview : $edmPreview';
+    return 'completeness : $completeness ::: edmPreview : $edmPreview ::: id : $id';
   }
 }

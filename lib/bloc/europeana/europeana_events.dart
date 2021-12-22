@@ -5,3 +5,9 @@ class EuropeanaSearchEvent extends EuropeanaEvent {
 
   String queryString = '';
 }
+
+class EuropeanaRecordEvent extends EuropeanaEvent {
+  EuropeanaRecordEvent(this.queryString);
+
+  String queryString = '';
+}

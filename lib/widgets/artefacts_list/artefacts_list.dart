@@ -1,5 +1,6 @@
 import 'package:beamer/beamer.dart';
 import 'package:discover_it/bloc/europeana/europeana_bloc.dart';
+import 'package:discover_it/bloc/europeana/europeana_events.dart';
 import 'package:discover_it/bloc/europeana/europeana_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -19,12 +20,15 @@ class ArtefactsList extends StatelessWidget {
                 {
                   dev.log('artefact : ${artefact.completeness}');
                   var edmPreview = artefact.edmPreview ?? [];
+                  var artefactId = artefact.id ?? '';
                   var imageUri = edmPreview.isNotEmpty ? edmPreview[0] : '';
                   return GestureDetector(
                     onTap: () {
                       const snackBar = SnackBar(content: Text('Tap'));
                       ScaffoldMessenger.of(context).showSnackBar(snackBar);
+                      //TODO artefactId
                       Beamer.of(context).beamToNamed('/artefacts/2');
+                      context.read<EuropeanaBloc>().add(EuropeanaRecordEvent(artefactId));
                     },
                     child: Row(
                       children: [
