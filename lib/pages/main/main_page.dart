@@ -9,17 +9,18 @@ class MainPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Discover it!'),
-      ),
-      body: Container(
-        padding: const EdgeInsets.all(20.0),
-        child: Column(
-          children: const [
-            SearchFormArtefacts(),
-          ],
+    return const Scaffold(
+      body: DecoratedBox(
+        decoration: BoxDecoration(
+          image: DecorationImage(
+            image: AssetImage("images/salzburg.jpg"),
+            fit: BoxFit.cover,
+          ),
         ),
+        child: SearchFormArtefacts()
+      ),
+      bottomNavigationBar: BottomAppBar(
+        child: Text('домой : список : поиск'),
       ),
     );
   }
