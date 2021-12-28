@@ -1,0 +1,3828 @@
+{
+  "apikey": "blabalket",
+  "success": true,
+  "requestNumber": 999,
+  "itemsCount": 12,
+  "totalResults": 1284,
+  "items": [
+    {
+      "completeness": 10,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "Kunsthistorisches Museum"
+      ],
+      "dcCreator": [
+        "http://d-nb.info/118626590"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "http://d-nb.info/118626590"
+        ]
+      },
+      "dcDescription": [
+        "Mit der Darstellung des Malers im Atelier überhöht Vermeer das Genrebild zu einer Allegorie der Malkunst. Sein Modell posiert als Klio: Die Muse der Geschichte inspiriert den Maler und verkündet den Ruhm der Malkunst der Alten Niederlande, den sie im Buch der Geschichte verewigt. Auf die Einheit der Künste deuten Bildhauermodell, Skizzenbuch und das entstehende Bild auf der Staffelei. Die Landkarte mit den 17 Provinzen der Niederlande, vor ihrer Trennung in Nord und Süd, weist auf das Land, dessen Ruhm von altersher die Malkunst ausmacht.",
+        "Beschriftung: Signatur: Bez. auf dem unteren Einfassungsstreifen der Landkarte: I Ver-Meer",
+        "Beschriftung: Beschriftung: Bez. auf dem oberen Einfassungstreifen der Landkarte: NOVA XVII PROV[IN]CIARUM [GERMAINIAE INF]ERI[O]RIS DESCRIPTIO / ET ACCURATA EARUNDEM ... DE NO[VO] EM[EN]D[ATA] ... REC[TISS]IME EDIT[A P]ER NICOLAUM PISCATOREM"
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "Mit der Darstellung des Malers im Atelier überhöht Vermeer das Genrebild zu einer Allegorie der Malkunst. Sein Modell posiert als Klio: Die Muse der Geschichte inspiriert den Maler und verkündet den Ruhm der Malkunst der Alten Niederlande, den sie im Buch der Geschichte verewigt. Auf die Einheit der Künste deuten Bildhauermodell, Skizzenbuch und das entstehende Bild auf der Staffelei. Die Landkarte mit den 17 Provinzen der Niederlande, vor ihrer Trennung in Nord und Süd, weist auf das Land, dessen Ruhm von altersher die Malkunst ausmacht.",
+          "Beschriftung: Signatur: Bez. auf dem unteren Einfassungsstreifen der Landkarte: I Ver-Meer",
+          "Beschriftung: Beschriftung: Bez. auf dem oberen Einfassungstreifen der Landkarte: NOVA XVII PROV[IN]CIARUM [GERMAINIAE INF]ERI[O]RIS DESCRIPTIO / ET ACCURATA EARUNDEM ... DE NO[VO] EM[EN]D[ATA] ... REC[TISS]IME EDIT[A P]ER NICOLAUM PISCATOREM"
+        ]
+      },
+      "dcLanguage": [
+        "de",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Die Malkunst"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/base/47"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Malerei"
+        },
+        {
+          "def": "चित्रकला"
+        },
+        {
+          "def": "Malerkunst"
+        },
+        {
+          "def": "Живопись"
+        },
+        {
+          "def": "Жывапіс"
+        },
+        {
+          "def": "Maalaustaide"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Живопис"
+        },
+        {
+          "def": "Tapyba"
+        },
+        {
+          "def": "Glezniecība"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Peinture"
+        },
+        {
+          "def": "Festőművészet"
+        },
+        {
+          "def": "מאלעריי"
+        },
+        {
+          "def": "Գեղանկարչություն"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Живопис"
+        },
+        {
+          "def": "ფერწერა"
+        },
+        {
+          "def": "Maliarstvo"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Péintéireacht"
+        },
+        {
+          "def": "Piktura"
+        },
+        {
+          "def": "Сликарство"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Сликарство"
+        },
+        {
+          "def": "Målarkonst"
+        },
+        {
+          "def": "회화"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Ζωγραφική"
+        },
+        {
+          "def": "Painting"
+        },
+        {
+          "def": "Málverk"
+        },
+        {
+          "def": "Pittura"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "绘画"
+        },
+        {
+          "def": "Maalikunst"
+        },
+        {
+          "def": "Malířství"
+        },
+        {
+          "def": "Margolaritza"
+        },
+        {
+          "def": "تصوير (فنون تشكيلية)"
+        },
+        {
+          "def": "Paentio"
+        },
+        {
+          "def": "絵画"
+        },
+        {
+          "def": "Rəssamlıq"
+        },
+        {
+          "def": "Malarstwo"
+        },
+        {
+          "def": "ציור"
+        },
+        {
+          "def": "Maleri"
+        },
+        {
+          "def": "Pictură"
+        },
+        {
+          "def": "Resim"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Malerei"
+        ],
+        "hi": [
+          "चित्रकला"
+        ],
+        "no": [
+          "Malerkunst"
+        ],
+        "ru": [
+          "Живопись"
+        ],
+        "be": [
+          "Жывапіс"
+        ],
+        "fi": [
+          "Maalaustaide"
+        ],
+        "pt": [
+          "Pintura"
+        ],
+        "bg": [
+          "Живопис"
+        ],
+        "lt": [
+          "Tapyba"
+        ],
+        "lv": [
+          "Glezniecība"
+        ],
+        "hr": [
+          "Slikarstvo"
+        ],
+        "fr": [
+          "Peinture"
+        ],
+        "hu": [
+          "Festőművészet"
+        ],
+        "yi": [
+          "מאלעריי"
+        ],
+        "hy": [
+          "Գեղանկարչություն"
+        ],
+        "bs": [
+          "Slikarstvo"
+        ],
+        "uk": [
+          "Живопис"
+        ],
+        "ka": [
+          "ფერწერა"
+        ],
+        "sk": [
+          "Maliarstvo"
+        ],
+        "sl": [
+          "Slikarstvo"
+        ],
+        "ga": [
+          "Péintéireacht"
+        ],
+        "sq": [
+          "Piktura"
+        ],
+        "mk": [
+          "Сликарство"
+        ],
+        "ca": [
+          "Pintura"
+        ],
+        "sr": [
+          "Сликарство"
+        ],
+        "sv": [
+          "Målarkonst"
+        ],
+        "ko": [
+          "회화"
+        ],
+        "gl": [
+          "Pintura"
+        ],
+        "el": [
+          "Ζωγραφική"
+        ],
+        "en": [
+          "Painting"
+        ],
+        "is": [
+          "Málverk"
+        ],
+        "it": [
+          "Pittura"
+        ],
+        "es": [
+          "Pintura"
+        ],
+        "zh": [
+          "绘画"
+        ],
+        "et": [
+          "Maalikunst"
+        ],
+        "cs": [
+          "Malířství"
+        ],
+        "eu": [
+          "Margolaritza"
+        ],
+        "ar": [
+          "تصوير (فنون تشكيلية)"
+        ],
+        "cy": [
+          "Paentio"
+        ],
+        "ja": [
+          "絵画"
+        ],
+        "az": [
+          "Rəssamlıq"
+        ],
+        "pl": [
+          "Malarstwo"
+        ],
+        "he": [
+          "ציור"
+        ],
+        "da": [
+          "Maleri"
+        ],
+        "ro": [
+          "Pictură"
+        ],
+        "tr": [
+          "Resim"
+        ]
+      },
+      "edmDatasetName": [
+        "15502_Ag_AT_Kulturpool_Khm"
+      ],
+      "edmIsShownAt": [
+        "http://www.khm.at/de/objektdb/detail/2574/"
+      ],
+      "edmIsShownBy": [
+        "http://imageapi.khm.at/images/2574/GG_9128_Web.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F2574%2FGG_9128_Web.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1661-1671"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1661-1671"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15502_Ag_AT_Kulturpool_Khm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/15502/GG_9128?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/15502/GG_9128",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15502/GG_9128.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      ],
+      "score": 16.869915,
+      "timestamp": 1635530778482,
+      "timestamp_created": "2019-07-05T17:36:26.817Z",
+      "timestamp_created_epoch": 1562348186817,
+      "timestamp_update": "2021-06-14T20:53:39.101Z",
+      "timestamp_update_epoch": 1623704019101,
+      "title": [
+        "Die Malkunst"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Rijksmuseum"
+      ],
+      "dcDescription": [
+        "A maidservant pours milk, entirely absorbed in her work. Except for the stream of milk, everything else is still. Vermeer took this simple everyday activity and made it the subject of an impressive painting – the woman stands like a statue in the brightly lit room. Vermeer also had an eye for how light by means of hundreds of colourful dots plays over the surface of objects.",
+        "Geheel verdiept in haar werk schenkt een dienstmeisje melk in. Behalve de witte melkstraal lijkt niets te bewegen. Die alledaagse handeling balde Vermeer samen tot een indrukwekkend schilderij – als een beeld staat de figuur vrij in de lichte ruimte. Vermeer had oog voor hoe het licht in honderden kleurige puntjes over de voorwerpen speelt."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "A maidservant pours milk, entirely absorbed in her work. Except for the stream of milk, everything else is still. Vermeer took this simple everyday activity and made it the subject of an impressive painting – the woman stands like a statue in the brightly lit room. Vermeer also had an eye for how light by means of hundreds of colourful dots plays over the surface of objects."
+        ],
+        "nl": [
+          "Geheel verdiept in haar werk schenkt een dienstmeisje melk in. Behalve de witte melkstraal lijkt niets te bewegen. Die alledaagse handeling balde Vermeer samen tot een indrukwekkend schilderij – als een beeld staat de figuur vrij in de lichte ruimte. Vermeer had oog voor hoe het licht in honderden kleurige puntjes over de voorwerpen speelt."
+        ]
+      },
+      "dcLanguage": [
+        "nl"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "nl"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "The Milkmaid"
+        ],
+        "nl": [
+          "Het melkmeisje"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/base/47"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Malerei"
+        },
+        {
+          "def": "चित्रकला"
+        },
+        {
+          "def": "Malerkunst"
+        },
+        {
+          "def": "Живопись"
+        },
+        {
+          "def": "Жывапіс"
+        },
+        {
+          "def": "Maalaustaide"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Живопис"
+        },
+        {
+          "def": "Tapyba"
+        },
+        {
+          "def": "Glezniecība"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Peinture"
+        },
+        {
+          "def": "Festőművészet"
+        },
+        {
+          "def": "מאלעריי"
+        },
+        {
+          "def": "Գեղանկարչություն"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Живопис"
+        },
+        {
+          "def": "ფერწერა"
+        },
+        {
+          "def": "Maliarstvo"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Péintéireacht"
+        },
+        {
+          "def": "Piktura"
+        },
+        {
+          "def": "Сликарство"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Сликарство"
+        },
+        {
+          "def": "Målarkonst"
+        },
+        {
+          "def": "회화"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Ζωγραφική"
+        },
+        {
+          "def": "Painting"
+        },
+        {
+          "def": "Málverk"
+        },
+        {
+          "def": "Pittura"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "绘画"
+        },
+        {
+          "def": "Maalikunst"
+        },
+        {
+          "def": "Malířství"
+        },
+        {
+          "def": "Margolaritza"
+        },
+        {
+          "def": "تصوير (فنون تشكيلية)"
+        },
+        {
+          "def": "Paentio"
+        },
+        {
+          "def": "絵画"
+        },
+        {
+          "def": "Rəssamlıq"
+        },
+        {
+          "def": "Malarstwo"
+        },
+        {
+          "def": "ציור"
+        },
+        {
+          "def": "Maleri"
+        },
+        {
+          "def": "Pictură"
+        },
+        {
+          "def": "Resim"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Malerei"
+        ],
+        "hi": [
+          "चित्रकला"
+        ],
+        "no": [
+          "Malerkunst"
+        ],
+        "ru": [
+          "Живопись"
+        ],
+        "be": [
+          "Жывапіс"
+        ],
+        "fi": [
+          "Maalaustaide"
+        ],
+        "pt": [
+          "Pintura"
+        ],
+        "bg": [
+          "Живопис"
+        ],
+        "lt": [
+          "Tapyba"
+        ],
+        "lv": [
+          "Glezniecība"
+        ],
+        "hr": [
+          "Slikarstvo"
+        ],
+        "fr": [
+          "Peinture"
+        ],
+        "hu": [
+          "Festőművészet"
+        ],
+        "yi": [
+          "מאלעריי"
+        ],
+        "hy": [
+          "Գեղանկարչություն"
+        ],
+        "bs": [
+          "Slikarstvo"
+        ],
+        "uk": [
+          "Живопис"
+        ],
+        "ka": [
+          "ფერწერა"
+        ],
+        "sk": [
+          "Maliarstvo"
+        ],
+        "sl": [
+          "Slikarstvo"
+        ],
+        "ga": [
+          "Péintéireacht"
+        ],
+        "sq": [
+          "Piktura"
+        ],
+        "mk": [
+          "Сликарство"
+        ],
+        "ca": [
+          "Pintura"
+        ],
+        "sr": [
+          "Сликарство"
+        ],
+        "sv": [
+          "Målarkonst"
+        ],
+        "ko": [
+          "회화"
+        ],
+        "gl": [
+          "Pintura"
+        ],
+        "el": [
+          "Ζωγραφική"
+        ],
+        "en": [
+          "Painting"
+        ],
+        "is": [
+          "Málverk"
+        ],
+        "it": [
+          "Pittura"
+        ],
+        "es": [
+          "Pintura"
+        ],
+        "zh": [
+          "绘画"
+        ],
+        "et": [
+          "Maalikunst"
+        ],
+        "cs": [
+          "Malířství"
+        ],
+        "eu": [
+          "Margolaritza"
+        ],
+        "ar": [
+          "تصوير (فنون تشكيلية)"
+        ],
+        "cy": [
+          "Paentio"
+        ],
+        "ja": [
+          "絵画"
+        ],
+        "az": [
+          "Rəssamlıq"
+        ],
+        "pl": [
+          "Malarstwo"
+        ],
+        "he": [
+          "ציור"
+        ],
+        "da": [
+          "Maleri"
+        ],
+        "ro": [
+          "Pictură"
+        ],
+        "tr": [
+          "Resim"
+        ]
+      },
+      "edmDatasetName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "edmIsShownAt": [
+        "http://hdl.handle.net/10934/RM0001.COLLECT.6417"
+      ],
+      "edmIsShownBy": [
+        "https://lh3.googleusercontent.com/-pGNtXiSwRShKc9U6djlF7JB3cWtqONNmpnQ7U_ieUjn7iwIP4ziNGt7LGFxfN0IqGzoLlEeIKNoERm6qTQuId9GdUo=s0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.rijksmuseum.nl%2Fassetimage2.jsp%3Fid%3DSK-A-2344&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "17-th"
+        },
+        {
+          "def": "17th"
+        },
+        {
+          "def": "17th century"
+        },
+        {
+          "def": "3 quarter of the 17th century"
+        },
+        {
+          "def": "17th century"
+        },
+        {
+          "def": "Second half of the 17th century"
+        },
+        {
+          "def": "2e millénaire après J.-C."
+        },
+        {
+          "def": "17e siècle"
+        },
+        {
+          "def": "3e quart 17e siècle"
+        },
+        {
+          "def": "XVIIe siècle"
+        },
+        {
+          "def": "17e (fin)"
+        },
+        {
+          "def": "17й век"
+        },
+        {
+          "def": "3-я четверть 17-го века"
+        },
+        {
+          "def": "XVII век"
+        },
+        {
+          "def": "Вторая половина 17-го века"
+        },
+        {
+          "def": "17.."
+        },
+        {
+          "def": "17??"
+        },
+        {
+          "def": "17e"
+        },
+        {
+          "def": "1660"
+        },
+        {
+          "def": "17de eeuw"
+        },
+        {
+          "def": "17e eeuw"
+        },
+        {
+          "def": "17. Jahrhundert"
+        },
+        {
+          "def": "1600-luku"
+        },
+        {
+          "def": "século XVII"
+        },
+        {
+          "def": "17 век"
+        },
+        {
+          "def": "XVII amžius"
+        },
+        {
+          "def": "17. stoljeće"
+        },
+        {
+          "def": "17. gadsimts"
+        },
+        {
+          "def": "17. század"
+        },
+        {
+          "def": "17. storočie"
+        },
+        {
+          "def": "17. stoletje"
+        },
+        {
+          "def": "17ú haois"
+        },
+        {
+          "def": "segle XVII"
+        },
+        {
+          "def": "1600-talet"
+        },
+        {
+          "def": "seklu XVII"
+        },
+        {
+          "def": "17ος αιώνας"
+        },
+        {
+          "def": "XVII secolo"
+        },
+        {
+          "def": "siglo XVII"
+        },
+        {
+          "def": "17. sajand"
+        },
+        {
+          "def": "17. století"
+        },
+        {
+          "def": "XVII wiek"
+        },
+        {
+          "def": "17. århundrede"
+        },
+        {
+          "def": "Secolul al XVII-lea"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7016"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404511"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049670"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814624n"
+        },
+        {
+          "def": "http://semium.org/time/16xx"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85120427"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "17. Jahrhundert"
+        ],
+        "ru": [
+          "17й век",
+          "3-я четверть 17-го века",
+          "XVII век",
+          "Вторая половина 17-го века"
+        ],
+        "fi": [
+          "1600-luku"
+        ],
+        "def": [
+          "17..",
+          "17??",
+          "17e",
+          "1660"
+        ],
+        "pt": [
+          "século XVII"
+        ],
+        "bg": [
+          "17 век"
+        ],
+        "lt": [
+          "XVII amžius"
+        ],
+        "hr": [
+          "17. stoljeće"
+        ],
+        "lv": [
+          "17. gadsimts"
+        ],
+        "fr": [
+          "2e millénaire après J.-C.",
+          "17e siècle",
+          "3e quart 17e siècle",
+          "XVIIe siècle",
+          "17e (fin)"
+        ],
+        "hu": [
+          "17. század"
+        ],
+        "sk": [
+          "17. storočie"
+        ],
+        "sl": [
+          "17. stoletje"
+        ],
+        "ga": [
+          "17ú haois"
+        ],
+        "ca": [
+          "segle XVII"
+        ],
+        "sv": [
+          "1600-talet"
+        ],
+        "mt": [
+          "seklu XVII"
+        ],
+        "el": [
+          "17ος αιώνας"
+        ],
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000",
+          "17-th",
+          "17th",
+          "17th century",
+          "3 quarter of the 17th century",
+          "17th century",
+          "Second half of the 17th century"
+        ],
+        "it": [
+          "XVII secolo"
+        ],
+        "es": [
+          "siglo XVII"
+        ],
+        "et": [
+          "17. sajand"
+        ],
+        "cs": [
+          "17. století"
+        ],
+        "pl": [
+          "XVII wiek"
+        ],
+        "da": [
+          "17. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVII-lea"
+        ],
+        "nl": [
+          "17de eeuw",
+          "17e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/90402/SK_A_2344?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/90402/SK_A_2344",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/90402/SK_A_2344.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "Rijksmuseum"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 17.655876,
+      "timestamp": 1635476157407,
+      "timestamp_created": "2014-05-27T20:14:08.870Z",
+      "timestamp_created_epoch": 1401221648870,
+      "timestamp_update": "2018-03-17T14:37:35.210Z",
+      "timestamp_update_epoch": 1521297455210,
+      "title": [
+        "The Milkmaid",
+        "Het melkmeisje"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1660"
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Rijksmuseum"
+      ],
+      "dcDescription": [
+        "This is an unusual painting in Vermeer’s oeuvre, and remarkable for its time as a portrait of ordinary houses. The composition is as exciting as it is balanced. The old walls with their bricks, whitewash, and cracks are almost tangible. The location is Vlamingstraat 40–42 in Delft. Vermeer’s\naunt Ariaentgen Claes lived in the house at the right, with her children, from around 1645 until her death in 1670.",
+        "Een ongewoon schilderij in Vermeers oeuvre, en als portret van gewone huizen ook bijzonder voor zijn tijd. De compositie is even spannend als evenwichtig. De oude muren met bakstenen, witkalk en scheuren zijn bijna tastbaar. De locatie is Vlamingstraat 40–42 in Delft. In het rechterhuis woonde Vermeers tante Ariaentgen Claes met haar kinderen, van ongeveer 1645 tot haar dood in 1670."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "This is an unusual painting in Vermeer’s oeuvre, and remarkable for its time as a portrait of ordinary houses. The composition is as exciting as it is balanced. The old walls with their bricks, whitewash, and cracks are almost tangible. The location is Vlamingstraat 40–42 in Delft. Vermeer’s\naunt Ariaentgen Claes lived in the house at the right, with her children, from around 1645 until her death in 1670."
+        ],
+        "nl": [
+          "Een ongewoon schilderij in Vermeers oeuvre, en als portret van gewone huizen ook bijzonder voor zijn tijd. De compositie is even spannend als evenwichtig. De oude muren met bakstenen, witkalk en scheuren zijn bijna tastbaar. De locatie is Vlamingstraat 40–42 in Delft. In het rechterhuis woonde Vermeers tante Ariaentgen Claes met haar kinderen, van ongeveer 1645 tot haar dood in 1670."
+        ]
+      },
+      "dcLanguage": [
+        "nl"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "nl"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "View of Houses in Delft, Known as The Little Street"
+        ],
+        "nl": [
+          "Gezicht op huizen in Delft, bekend als Het straatje"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/base/47"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Malerei"
+        },
+        {
+          "def": "चित्रकला"
+        },
+        {
+          "def": "Malerkunst"
+        },
+        {
+          "def": "Живопись"
+        },
+        {
+          "def": "Жывапіс"
+        },
+        {
+          "def": "Maalaustaide"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Живопис"
+        },
+        {
+          "def": "Tapyba"
+        },
+        {
+          "def": "Glezniecība"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Peinture"
+        },
+        {
+          "def": "Festőművészet"
+        },
+        {
+          "def": "מאלעריי"
+        },
+        {
+          "def": "Գեղանկարչություն"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Живопис"
+        },
+        {
+          "def": "ფერწერა"
+        },
+        {
+          "def": "Maliarstvo"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Péintéireacht"
+        },
+        {
+          "def": "Piktura"
+        },
+        {
+          "def": "Сликарство"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Сликарство"
+        },
+        {
+          "def": "Målarkonst"
+        },
+        {
+          "def": "회화"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Ζωγραφική"
+        },
+        {
+          "def": "Painting"
+        },
+        {
+          "def": "Málverk"
+        },
+        {
+          "def": "Pittura"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "绘画"
+        },
+        {
+          "def": "Maalikunst"
+        },
+        {
+          "def": "Malířství"
+        },
+        {
+          "def": "Margolaritza"
+        },
+        {
+          "def": "تصوير (فنون تشكيلية)"
+        },
+        {
+          "def": "Paentio"
+        },
+        {
+          "def": "絵画"
+        },
+        {
+          "def": "Rəssamlıq"
+        },
+        {
+          "def": "Malarstwo"
+        },
+        {
+          "def": "ציור"
+        },
+        {
+          "def": "Maleri"
+        },
+        {
+          "def": "Pictură"
+        },
+        {
+          "def": "Resim"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Malerei"
+        ],
+        "hi": [
+          "चित्रकला"
+        ],
+        "no": [
+          "Malerkunst"
+        ],
+        "ru": [
+          "Живопись"
+        ],
+        "be": [
+          "Жывапіс"
+        ],
+        "fi": [
+          "Maalaustaide"
+        ],
+        "pt": [
+          "Pintura"
+        ],
+        "bg": [
+          "Живопис"
+        ],
+        "lt": [
+          "Tapyba"
+        ],
+        "lv": [
+          "Glezniecība"
+        ],
+        "hr": [
+          "Slikarstvo"
+        ],
+        "fr": [
+          "Peinture"
+        ],
+        "hu": [
+          "Festőművészet"
+        ],
+        "yi": [
+          "מאלעריי"
+        ],
+        "hy": [
+          "Գեղանկարչություն"
+        ],
+        "bs": [
+          "Slikarstvo"
+        ],
+        "uk": [
+          "Живопис"
+        ],
+        "ka": [
+          "ფერწერა"
+        ],
+        "sk": [
+          "Maliarstvo"
+        ],
+        "sl": [
+          "Slikarstvo"
+        ],
+        "ga": [
+          "Péintéireacht"
+        ],
+        "sq": [
+          "Piktura"
+        ],
+        "mk": [
+          "Сликарство"
+        ],
+        "ca": [
+          "Pintura"
+        ],
+        "sr": [
+          "Сликарство"
+        ],
+        "sv": [
+          "Målarkonst"
+        ],
+        "ko": [
+          "회화"
+        ],
+        "gl": [
+          "Pintura"
+        ],
+        "el": [
+          "Ζωγραφική"
+        ],
+        "en": [
+          "Painting"
+        ],
+        "is": [
+          "Málverk"
+        ],
+        "it": [
+          "Pittura"
+        ],
+        "es": [
+          "Pintura"
+        ],
+        "zh": [
+          "绘画"
+        ],
+        "et": [
+          "Maalikunst"
+        ],
+        "cs": [
+          "Malířství"
+        ],
+        "eu": [
+          "Margolaritza"
+        ],
+        "ar": [
+          "تصوير (فنون تشكيلية)"
+        ],
+        "cy": [
+          "Paentio"
+        ],
+        "ja": [
+          "絵画"
+        ],
+        "az": [
+          "Rəssamlıq"
+        ],
+        "pl": [
+          "Malarstwo"
+        ],
+        "he": [
+          "ציור"
+        ],
+        "da": [
+          "Maleri"
+        ],
+        "ro": [
+          "Pictură"
+        ],
+        "tr": [
+          "Resim"
+        ]
+      },
+      "edmDatasetName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "edmIsShownAt": [
+        "http://hdl.handle.net/10934/RM0001.COLLECT.6419"
+      ],
+      "edmIsShownBy": [
+        "https://lh3.googleusercontent.com/QjRm4UQbUvfY3H8MOPYjQKvMWWMIITAI3jVto147znHC3_dEEYKJF_UQsj7FZ59VxEzxaauQ98bUAwFLSfLW3Syiza3Q=s0"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Delft"
+        },
+        {
+          "def": "Delft"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "en": [
+          "Delft"
+        ],
+        "nl": [
+          "Delft"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "52.0"
+      ],
+      "edmPlaceLongitude": [
+        "4.366667"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.rijksmuseum.nl%2Fassetimage2.jsp%3Fid%3DSK-A-2860&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "17-th"
+        },
+        {
+          "def": "17th"
+        },
+        {
+          "def": "17th century"
+        },
+        {
+          "def": "3 quarter of the 17th century"
+        },
+        {
+          "def": "17th century"
+        },
+        {
+          "def": "Second half of the 17th century"
+        },
+        {
+          "def": "2e millénaire après J.-C."
+        },
+        {
+          "def": "17e siècle"
+        },
+        {
+          "def": "3e quart 17e siècle"
+        },
+        {
+          "def": "XVIIe siècle"
+        },
+        {
+          "def": "17e (fin)"
+        },
+        {
+          "def": "17й век"
+        },
+        {
+          "def": "3-я четверть 17-го века"
+        },
+        {
+          "def": "XVII век"
+        },
+        {
+          "def": "Вторая половина 17-го века"
+        },
+        {
+          "def": "17.."
+        },
+        {
+          "def": "17??"
+        },
+        {
+          "def": "17e"
+        },
+        {
+          "def": "1658"
+        },
+        {
+          "def": "17de eeuw"
+        },
+        {
+          "def": "17e eeuw"
+        },
+        {
+          "def": "17. Jahrhundert"
+        },
+        {
+          "def": "1600-luku"
+        },
+        {
+          "def": "século XVII"
+        },
+        {
+          "def": "17 век"
+        },
+        {
+          "def": "XVII amžius"
+        },
+        {
+          "def": "17. stoljeće"
+        },
+        {
+          "def": "17. gadsimts"
+        },
+        {
+          "def": "17. század"
+        },
+        {
+          "def": "17. storočie"
+        },
+        {
+          "def": "17. stoletje"
+        },
+        {
+          "def": "17ú haois"
+        },
+        {
+          "def": "segle XVII"
+        },
+        {
+          "def": "1600-talet"
+        },
+        {
+          "def": "seklu XVII"
+        },
+        {
+          "def": "17ος αιώνας"
+        },
+        {
+          "def": "XVII secolo"
+        },
+        {
+          "def": "siglo XVII"
+        },
+        {
+          "def": "17. sajand"
+        },
+        {
+          "def": "17. století"
+        },
+        {
+          "def": "XVII wiek"
+        },
+        {
+          "def": "17. århundrede"
+        },
+        {
+          "def": "Secolul al XVII-lea"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7016"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404511"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049670"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814624n"
+        },
+        {
+          "def": "http://semium.org/time/16xx"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85120427"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "17. Jahrhundert"
+        ],
+        "ru": [
+          "17й век",
+          "3-я четверть 17-го века",
+          "XVII век",
+          "Вторая половина 17-го века"
+        ],
+        "fi": [
+          "1600-luku"
+        ],
+        "def": [
+          "17..",
+          "17??",
+          "17e",
+          "1658"
+        ],
+        "pt": [
+          "século XVII"
+        ],
+        "bg": [
+          "17 век"
+        ],
+        "lt": [
+          "XVII amžius"
+        ],
+        "hr": [
+          "17. stoljeće"
+        ],
+        "lv": [
+          "17. gadsimts"
+        ],
+        "fr": [
+          "2e millénaire après J.-C.",
+          "17e siècle",
+          "3e quart 17e siècle",
+          "XVIIe siècle",
+          "17e (fin)"
+        ],
+        "hu": [
+          "17. század"
+        ],
+        "sk": [
+          "17. storočie"
+        ],
+        "sl": [
+          "17. stoletje"
+        ],
+        "ga": [
+          "17ú haois"
+        ],
+        "ca": [
+          "segle XVII"
+        ],
+        "sv": [
+          "1600-talet"
+        ],
+        "mt": [
+          "seklu XVII"
+        ],
+        "el": [
+          "17ος αιώνας"
+        ],
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000",
+          "17-th",
+          "17th",
+          "17th century",
+          "3 quarter of the 17th century",
+          "17th century",
+          "Second half of the 17th century"
+        ],
+        "it": [
+          "XVII secolo"
+        ],
+        "es": [
+          "siglo XVII"
+        ],
+        "et": [
+          "17. sajand"
+        ],
+        "cs": [
+          "17. století"
+        ],
+        "pl": [
+          "XVII wiek"
+        ],
+        "da": [
+          "17. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVII-lea"
+        ],
+        "nl": [
+          "17de eeuw",
+          "17e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/90402/SK_A_2860?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/90402/SK_A_2860",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/90402/SK_A_2860.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "Rijksmuseum"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 15.271638,
+      "timestamp": 1635476197313,
+      "timestamp_created": "2014-05-27T20:14:48.520Z",
+      "timestamp_created_epoch": 1401221688520,
+      "timestamp_update": "2018-03-17T14:37:40.972Z",
+      "timestamp_update_epoch": 1521297460972,
+      "title": [
+        "View of Houses in Delft, Known as The Little Street",
+        "Gezicht op huizen in Delft, bekend als Het straatje"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1658"
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Rijksmuseum"
+      ],
+      "dcDescription": [
+        "Vermeer chose an unusual vantage point for this painting. From a dim space in the foreground, a glimpse is afforded of another room with a domestic scene. An elegantly dressed woman looks up expectantly at a maidservant, who has just handed her a letter. The seascape on the wall behind them may well allude to the epistle’s subject: during the 17th century, the sea was often compared to love, and the lover to a ship.",
+        "Voor dit schilderij koos Vermeer een opmerkelijk standpunt. Vanuit een schemerig vertrek is een glimp van een kamer te zien met een huiselijke scène. Een rijk geklede vrouw neemt verwachtingsvol een brief aan van een dienstmeisje. Het onderwerp van de brief blijkt wellicht uit het zeegezicht achter hen. De zee werd in de 17de eeuw vaak vergeleken met de liefde, en de minnaar met een schip."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Vermeer chose an unusual vantage point for this painting. From a dim space in the foreground, a glimpse is afforded of another room with a domestic scene. An elegantly dressed woman looks up expectantly at a maidservant, who has just handed her a letter. The seascape on the wall behind them may well allude to the epistle’s subject: during the 17th century, the sea was often compared to love, and the lover to a ship."
+        ],
+        "nl": [
+          "Voor dit schilderij koos Vermeer een opmerkelijk standpunt. Vanuit een schemerig vertrek is een glimp van een kamer te zien met een huiselijke scène. Een rijk geklede vrouw neemt verwachtingsvol een brief aan van een dienstmeisje. Het onderwerp van de brief blijkt wellicht uit het zeegezicht achter hen. De zee werd in de 17de eeuw vaak vergeleken met de liefde, en de minnaar met een schip."
+        ]
+      },
+      "dcLanguage": [
+        "nl"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "nl"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "The Love Letter"
+        ],
+        "nl": [
+          "De liefdesbrief"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/base/47"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Malerei"
+        },
+        {
+          "def": "चित्रकला"
+        },
+        {
+          "def": "Malerkunst"
+        },
+        {
+          "def": "Живопись"
+        },
+        {
+          "def": "Жывапіс"
+        },
+        {
+          "def": "Maalaustaide"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Живопис"
+        },
+        {
+          "def": "Tapyba"
+        },
+        {
+          "def": "Glezniecība"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Peinture"
+        },
+        {
+          "def": "Festőművészet"
+        },
+        {
+          "def": "מאלעריי"
+        },
+        {
+          "def": "Գեղանկարչություն"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Живопис"
+        },
+        {
+          "def": "ფერწერა"
+        },
+        {
+          "def": "Maliarstvo"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Péintéireacht"
+        },
+        {
+          "def": "Piktura"
+        },
+        {
+          "def": "Сликарство"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Сликарство"
+        },
+        {
+          "def": "Målarkonst"
+        },
+        {
+          "def": "회화"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Ζωγραφική"
+        },
+        {
+          "def": "Painting"
+        },
+        {
+          "def": "Málverk"
+        },
+        {
+          "def": "Pittura"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "绘画"
+        },
+        {
+          "def": "Maalikunst"
+        },
+        {
+          "def": "Malířství"
+        },
+        {
+          "def": "Margolaritza"
+        },
+        {
+          "def": "تصوير (فنون تشكيلية)"
+        },
+        {
+          "def": "Paentio"
+        },
+        {
+          "def": "絵画"
+        },
+        {
+          "def": "Rəssamlıq"
+        },
+        {
+          "def": "Malarstwo"
+        },
+        {
+          "def": "ציור"
+        },
+        {
+          "def": "Maleri"
+        },
+        {
+          "def": "Pictură"
+        },
+        {
+          "def": "Resim"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Malerei"
+        ],
+        "hi": [
+          "चित्रकला"
+        ],
+        "no": [
+          "Malerkunst"
+        ],
+        "ru": [
+          "Живопись"
+        ],
+        "be": [
+          "Жывапіс"
+        ],
+        "fi": [
+          "Maalaustaide"
+        ],
+        "pt": [
+          "Pintura"
+        ],
+        "bg": [
+          "Живопис"
+        ],
+        "lt": [
+          "Tapyba"
+        ],
+        "lv": [
+          "Glezniecība"
+        ],
+        "hr": [
+          "Slikarstvo"
+        ],
+        "fr": [
+          "Peinture"
+        ],
+        "hu": [
+          "Festőművészet"
+        ],
+        "yi": [
+          "מאלעריי"
+        ],
+        "hy": [
+          "Գեղանկարչություն"
+        ],
+        "bs": [
+          "Slikarstvo"
+        ],
+        "uk": [
+          "Живопис"
+        ],
+        "ka": [
+          "ფერწერა"
+        ],
+        "sk": [
+          "Maliarstvo"
+        ],
+        "sl": [
+          "Slikarstvo"
+        ],
+        "ga": [
+          "Péintéireacht"
+        ],
+        "sq": [
+          "Piktura"
+        ],
+        "mk": [
+          "Сликарство"
+        ],
+        "ca": [
+          "Pintura"
+        ],
+        "sr": [
+          "Сликарство"
+        ],
+        "sv": [
+          "Målarkonst"
+        ],
+        "ko": [
+          "회화"
+        ],
+        "gl": [
+          "Pintura"
+        ],
+        "el": [
+          "Ζωγραφική"
+        ],
+        "en": [
+          "Painting"
+        ],
+        "is": [
+          "Málverk"
+        ],
+        "it": [
+          "Pittura"
+        ],
+        "es": [
+          "Pintura"
+        ],
+        "zh": [
+          "绘画"
+        ],
+        "et": [
+          "Maalikunst"
+        ],
+        "cs": [
+          "Malířství"
+        ],
+        "eu": [
+          "Margolaritza"
+        ],
+        "ar": [
+          "تصوير (فنون تشكيلية)"
+        ],
+        "cy": [
+          "Paentio"
+        ],
+        "ja": [
+          "絵画"
+        ],
+        "az": [
+          "Rəssamlıq"
+        ],
+        "pl": [
+          "Malarstwo"
+        ],
+        "he": [
+          "ציור"
+        ],
+        "da": [
+          "Maleri"
+        ],
+        "ro": [
+          "Pictură"
+        ],
+        "tr": [
+          "Resim"
+        ]
+      },
+      "edmDatasetName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "edmIsShownAt": [
+        "http://hdl.handle.net/10934/RM0001.COLLECT.6418"
+      ],
+      "edmIsShownBy": [
+        "https://lh3.googleusercontent.com/oYbIFLj5rMDJmCqpXKtSBnDlDpcnKDAkBDRqKxN_bhwFXlpcTmTkTz732X8nlRPal5iyBe9hUPGpJA4cfGRauRo1azM=s0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.rijksmuseum.nl%2Fassetimage2.jsp%3Fid%3DSK-A-1595&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/90402/SK_A_1595?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/90402/SK_A_1595",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/90402/SK_A_1595.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "Rijksmuseum"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 17.449377,
+      "timestamp": 1635476182388,
+      "timestamp_created": "2014-05-27T20:13:44.495Z",
+      "timestamp_created_epoch": 1401221624495,
+      "timestamp_update": "2018-03-17T14:37:23.565Z",
+      "timestamp_update_epoch": 1521297443565,
+      "title": [
+        "The Love Letter",
+        "De liefdesbrief"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 6,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Teylers Museum"
+      ],
+      "dcCreator": [
+        "Anoniem (17e eeuw)",
+        "Vermeer, Johannes (1632 - 1675)",
+        "tekenaar",
+        "oude toeschrijving tekenaar"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Anoniem (17e eeuw)",
+          "Vermeer, Johannes (1632 - 1675)",
+          "tekenaar",
+          "oude toeschrijving tekenaar"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Zittende jongeman bij ton met het hoofd naar links"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/base/35"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Zeichnung (Kunst)"
+        },
+        {
+          "def": "रेखाचित्र"
+        },
+        {
+          "def": "Tegnekunst"
+        },
+        {
+          "def": "Рисунок"
+        },
+        {
+          "def": "Малюнак"
+        },
+        {
+          "def": "Piirustus"
+        },
+        {
+          "def": "Desenho"
+        },
+        {
+          "def": "Рисунка"
+        },
+        {
+          "def": "Zīmējums"
+        },
+        {
+          "def": "Crtež"
+        },
+        {
+          "def": "Dessin"
+        },
+        {
+          "def": "Rajz"
+        },
+        {
+          "def": "צייכענען"
+        },
+        {
+          "def": "Գծանկար"
+        },
+        {
+          "def": "Crtež"
+        },
+        {
+          "def": "Малюнок"
+        },
+        {
+          "def": "ნახატი"
+        },
+        {
+          "def": "Kresba (umenie)"
+        },
+        {
+          "def": "Risba"
+        },
+        {
+          "def": "Dibuix"
+        },
+        {
+          "def": "Цртеж"
+        },
+        {
+          "def": "Teckning (konst)"
+        },
+        {
+          "def": "소묘"
+        },
+        {
+          "def": "Debuxo"
+        },
+        {
+          "def": "Drawing"
+        },
+        {
+          "def": "Disegno"
+        },
+        {
+          "def": "Dibujo"
+        },
+        {
+          "def": "素描"
+        },
+        {
+          "def": "Joonistamine"
+        },
+        {
+          "def": "Kresba"
+        },
+        {
+          "def": "Marrazki"
+        },
+        {
+          "def": "رسم"
+        },
+        {
+          "def": "素描"
+        },
+        {
+          "def": "Rysunek"
+        },
+        {
+          "def": "רישום"
+        },
+        {
+          "def": "Tegning"
+        },
+        {
+          "def": "Desen"
+        },
+        {
+          "def": "Tekening"
+        },
+        {
+          "def": "Çizim"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Zeichnung (Kunst)"
+        ],
+        "hi": [
+          "रेखाचित्र"
+        ],
+        "no": [
+          "Tegnekunst"
+        ],
+        "ru": [
+          "Рисунок"
+        ],
+        "be": [
+          "Малюнак"
+        ],
+        "fi": [
+          "Piirustus"
+        ],
+        "pt": [
+          "Desenho"
+        ],
+        "bg": [
+          "Рисунка"
+        ],
+        "lv": [
+          "Zīmējums"
+        ],
+        "hr": [
+          "Crtež"
+        ],
+        "fr": [
+          "Dessin"
+        ],
+        "hu": [
+          "Rajz"
+        ],
+        "yi": [
+          "צייכענען"
+        ],
+        "hy": [
+          "Գծանկար"
+        ],
+        "bs": [
+          "Crtež"
+        ],
+        "uk": [
+          "Малюнок"
+        ],
+        "ka": [
+          "ნახატი"
+        ],
+        "sk": [
+          "Kresba (umenie)"
+        ],
+        "sl": [
+          "Risba"
+        ],
+        "ca": [
+          "Dibuix"
+        ],
+        "sr": [
+          "Цртеж"
+        ],
+        "sv": [
+          "Teckning (konst)"
+        ],
+        "ko": [
+          "소묘"
+        ],
+        "gl": [
+          "Debuxo"
+        ],
+        "en": [
+          "Drawing"
+        ],
+        "it": [
+          "Disegno"
+        ],
+        "es": [
+          "Dibujo"
+        ],
+        "zh": [
+          "素描"
+        ],
+        "et": [
+          "Joonistamine"
+        ],
+        "cs": [
+          "Kresba"
+        ],
+        "eu": [
+          "Marrazki"
+        ],
+        "ar": [
+          "رسم"
+        ],
+        "ja": [
+          "素描"
+        ],
+        "pl": [
+          "Rysunek"
+        ],
+        "he": [
+          "רישום"
+        ],
+        "da": [
+          "Tegning"
+        ],
+        "ro": [
+          "Desen"
+        ],
+        "nl": [
+          "Tekening"
+        ],
+        "tr": [
+          "Çizim"
+        ]
+      },
+      "edmDatasetName": [
+        "2021618_Ag_NL_DigitaleCollectie_TeylersKunst"
+      ],
+      "edmIsShownAt": [
+        "http://teylers.adlibhosting.com/internetserver/Details/kunst/35487"
+      ],
+      "edmIsShownBy": [
+        "http://teylers.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=R%20010.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fteylers.adlibhosting.com%2Fwwwopacx%2Fwwwopac.ashx%3Fcommand%3Dgetcontent%26server%3Dimages%26value%3DR%2520010.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "17-th"
+        },
+        {
+          "def": "17th"
+        },
+        {
+          "def": "17th century"
+        },
+        {
+          "def": "First half of the 17th century"
+        },
+        {
+          "def": "17th century"
+        },
+        {
+          "def": "Time"
+        },
+        {
+          "def": "2 quarter of the 17th century"
+        },
+        {
+          "def": "Chronological period"
+        },
+        {
+          "def": "2e millénaire après J.-C."
+        },
+        {
+          "def": "17e siècle"
+        },
+        {
+          "def": "17e (début)"
+        },
+        {
+          "def": "XVIIe siècle"
+        },
+        {
+          "def": "2e quart 17e siècle"
+        },
+        {
+          "def": "17й век"
+        },
+        {
+          "def": "Первая половниа 17-го века"
+        },
+        {
+          "def": "XVII век"
+        },
+        {
+          "def": "2-я четверть 17-го века"
+        },
+        {
+          "def": "17.."
+        },
+        {
+          "def": "17??"
+        },
+        {
+          "def": "17e"
+        },
+        {
+          "def": "1630"
+        },
+        {
+          "def": "17de eeuw"
+        },
+        {
+          "def": "17e eeuw"
+        },
+        {
+          "def": "17. Jahrhundert"
+        },
+        {
+          "def": "1600-luku"
+        },
+        {
+          "def": "século XVII"
+        },
+        {
+          "def": "17 век"
+        },
+        {
+          "def": "XVII amžius"
+        },
+        {
+          "def": "17. stoljeće"
+        },
+        {
+          "def": "17. gadsimts"
+        },
+        {
+          "def": "17. század"
+        },
+        {
+          "def": "17. storočie"
+        },
+        {
+          "def": "17. stoletje"
+        },
+        {
+          "def": "17ú haois"
+        },
+        {
+          "def": "segle XVII"
+        },
+        {
+          "def": "1600-talet"
+        },
+        {
+          "def": "seklu XVII"
+        },
+        {
+          "def": "17ος αιώνας"
+        },
+        {
+          "def": "XVII secolo"
+        },
+        {
+          "def": "siglo XVII"
+        },
+        {
+          "def": "17. sajand"
+        },
+        {
+          "def": "17. století"
+        },
+        {
+          "def": "XVII wiek"
+        },
+        {
+          "def": "17. århundrede"
+        },
+        {
+          "def": "Secolul al XVII-lea"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7016"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404511"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049670"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814624n"
+        },
+        {
+          "def": "http://semium.org/time/16xx"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85120427"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "17. Jahrhundert"
+        ],
+        "ru": [
+          "17й век",
+          "Первая половниа 17-го века",
+          "XVII век",
+          "2-я четверть 17-го века"
+        ],
+        "fi": [
+          "1600-luku"
+        ],
+        "def": [
+          "17..",
+          "17??",
+          "17e",
+          "1630"
+        ],
+        "pt": [
+          "século XVII"
+        ],
+        "bg": [
+          "17 век"
+        ],
+        "lt": [
+          "XVII amžius"
+        ],
+        "hr": [
+          "17. stoljeće"
+        ],
+        "lv": [
+          "17. gadsimts"
+        ],
+        "fr": [
+          "2e millénaire après J.-C.",
+          "17e siècle",
+          "17e (début)",
+          "XVIIe siècle",
+          "2e quart 17e siècle"
+        ],
+        "hu": [
+          "17. század"
+        ],
+        "sk": [
+          "17. storočie"
+        ],
+        "sl": [
+          "17. stoletje"
+        ],
+        "ga": [
+          "17ú haois"
+        ],
+        "ca": [
+          "segle XVII"
+        ],
+        "sv": [
+          "1600-talet"
+        ],
+        "mt": [
+          "seklu XVII"
+        ],
+        "el": [
+          "17ος αιώνας"
+        ],
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000",
+          "17-th",
+          "17th",
+          "17th century",
+          "First half of the 17th century",
+          "17th century",
+          "Time",
+          "2 quarter of the 17th century",
+          "Chronological period"
+        ],
+        "it": [
+          "XVII secolo"
+        ],
+        "es": [
+          "siglo XVII"
+        ],
+        "et": [
+          "17. sajand"
+        ],
+        "cs": [
+          "17. století"
+        ],
+        "pl": [
+          "XVII wiek"
+        ],
+        "da": [
+          "17. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVII-lea"
+        ],
+        "nl": [
+          "17de eeuw",
+          "17e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2021618_Ag_NL_DigitaleCollectie_TeylersKunst"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/2021618/internetserver_Details_kunst_35487?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/2021618/internetserver_Details_kunst_35487",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/2021618/internetserver_Details_kunst_35487.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "Digitale Collectie"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-nc/3.0/nl/"
+      ],
+      "score": 10.068305,
+      "timestamp": 1635525243862,
+      "timestamp_created": "2014-03-25T15:10:25.707Z",
+      "timestamp_created_epoch": 1395760225707,
+      "timestamp_update": "2014-03-25T15:10:25.707Z",
+      "timestamp_update_epoch": 1395760225707,
+      "title": [
+        "Zittende jongeman bij ton met het hoofd naar links"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1630"
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Catholic University of Leuven"
+      ],
+      "dcCreator": [
+        "http://data.europeana.eu/agent/base/60404",
+        "Johannes Vermeer"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "http://data.europeana.eu/agent/base/60404"
+        ],
+        "en": [
+          "Johannes Vermeer"
+        ]
+      },
+      "dcDescription": [
+        "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1658. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Nederland, Amsterdam, Rijksmuseum. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Topografisch aanzicht. Stadsgezicht en dorpsgezicht. EuroPhot. Art history. 17th century. Paintings. Topographical view. Cityscape and townscape."
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1658. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Nederland, Amsterdam, Rijksmuseum. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Topografisch aanzicht. Stadsgezicht en dorpsgezicht. EuroPhot. Art history. 17th century. Paintings. Topographical view. Cityscape and townscape."
+        ]
+      },
+      "dcTitleLangAware": {
+        "nl": [
+          "Johannes Vermeer. Gezicht op huizen in Delft"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300128675",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gelatinefolie"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "gelatin silver transparencies"
+        },
+        {
+          "def": "photography (discipline)"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "trasparenze alla gelatina d'argento"
+        },
+        {
+          "def": "fotografia (disciplina)"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "transparencias de plata en gelatina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "gelatine-zilver transparanten"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "照片"
+        },
+        {
+          "def": "chao p'ien"
+        },
+        {
+          "def": "zhào piàn"
+        },
+        {
+          "def": "zhao pian"
+        },
+        {
+          "def": "photographies"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gelatinefolie",
+          "Foto"
+        ],
+        "zh-hant": [
+          "照片"
+        ],
+        "zh-latn-wadegile": [
+          "chao p'ien"
+        ],
+        "en": [
+          "gelatin silver transparencies",
+          "photography (discipline)",
+          "photographs"
+        ],
+        "zh-latn-pinyin-x-hanyu": [
+          "zhào piàn"
+        ],
+        "zh-latn-pinyin-x-notone": [
+          "zhao pian"
+        ],
+        "it": [
+          "fotografie",
+          "fotografia (disciplina)",
+          "trasparenze alla gelatina d'argento"
+        ],
+        "fr": [
+          "photographies"
+        ],
+        "es": [
+          "transparencias de plata en gelatina",
+          "fotografías (obra visual)"
+        ],
+        "nl": [
+          "gelatine-zilver transparanten",
+          "foto's",
+          "fotografie"
+        ]
+      },
+      "edmDatasetName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "edmIsShownBy": [
+        "https://lib.is/IE2393716/stream?quality=LOW"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2393716%2Fstream%3Fquality%3DLOW&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9990740360101488?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9990740360101488",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9990740360101488.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "PHOTOCONSORTIUM"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.891666,
+      "timestamp": 1635526305560,
+      "timestamp_created": "2019-10-07T11:00:43.516Z",
+      "timestamp_created_epoch": 1570446043516,
+      "timestamp_update": "2021-09-27T14:39:02.733Z",
+      "timestamp_update_epoch": 1632753542733,
+      "title": [
+        "Johannes Vermeer. Gezicht op huizen in Delft"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Catholic University of Leuven"
+      ],
+      "dcCreator": [
+        "Johannes Vermeer",
+        "http://data.europeana.eu/agent/base/60404"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "http://data.europeana.eu/agent/base/60404"
+        ],
+        "en": [
+          "Johannes Vermeer"
+        ]
+      },
+      "dcDescription": [
+        "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1660. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Nederland, Amsterdam, Rijksmuseum. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1660. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Nederland, Amsterdam, Rijksmuseum. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+        ]
+      },
+      "dcTitleLangAware": {
+        "nl": [
+          "Johannes Vermeer. Het melkmeisje"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300128675",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gelatinefolie"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "gelatin silver transparencies"
+        },
+        {
+          "def": "photography (discipline)"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "trasparenze alla gelatina d'argento"
+        },
+        {
+          "def": "fotografia (disciplina)"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "transparencias de plata en gelatina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "gelatine-zilver transparanten"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "照片"
+        },
+        {
+          "def": "chao p'ien"
+        },
+        {
+          "def": "zhào piàn"
+        },
+        {
+          "def": "zhao pian"
+        },
+        {
+          "def": "photographies"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gelatinefolie",
+          "Foto"
+        ],
+        "zh-hant": [
+          "照片"
+        ],
+        "zh-latn-wadegile": [
+          "chao p'ien"
+        ],
+        "en": [
+          "gelatin silver transparencies",
+          "photography (discipline)",
+          "photographs"
+        ],
+        "zh-latn-pinyin-x-hanyu": [
+          "zhào piàn"
+        ],
+        "zh-latn-pinyin-x-notone": [
+          "zhao pian"
+        ],
+        "it": [
+          "fotografie",
+          "fotografia (disciplina)",
+          "trasparenze alla gelatina d'argento"
+        ],
+        "fr": [
+          "photographies"
+        ],
+        "es": [
+          "transparencias de plata en gelatina",
+          "fotografías (obra visual)"
+        ],
+        "nl": [
+          "gelatine-zilver transparanten",
+          "foto's",
+          "fotografie"
+        ]
+      },
+      "edmDatasetName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "edmIsShownBy": [
+        "https://lib.is/IE2398563/stream?quality=LOW"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2398563%2Fstream%3Fquality%3DLOW&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9990740370101488?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9990740370101488",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9990740370101488.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "PHOTOCONSORTIUM"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.891666,
+      "timestamp": 1635526305698,
+      "timestamp_created": "2019-10-07T11:00:43.516Z",
+      "timestamp_created_epoch": 1570446043516,
+      "timestamp_update": "2021-09-27T14:39:02.733Z",
+      "timestamp_update_epoch": 1632753542733,
+      "title": [
+        "Johannes Vermeer. Het melkmeisje"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Catholic University of Leuven"
+      ],
+      "dcCreator": [
+        "Johannes Vermeer",
+        "http://data.europeana.eu/agent/base/60404"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "http://data.europeana.eu/agent/base/60404"
+        ],
+        "en": [
+          "Johannes Vermeer"
+        ]
+      },
+      "dcDescription": [
+        "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1666-1668. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Österreich, Wien, Kunsthistorisches Museum Wien. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1666-1668. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Österreich, Wien, Kunsthistorisches Museum Wien. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+        ]
+      },
+      "dcTitleLangAware": {
+        "nl": [
+          "Johannes Vermeer. De schilderkunst"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300128675",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gelatinefolie"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "gelatin silver transparencies"
+        },
+        {
+          "def": "photography (discipline)"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "trasparenze alla gelatina d'argento"
+        },
+        {
+          "def": "fotografia (disciplina)"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "transparencias de plata en gelatina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "gelatine-zilver transparanten"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "照片"
+        },
+        {
+          "def": "chao p'ien"
+        },
+        {
+          "def": "zhào piàn"
+        },
+        {
+          "def": "zhao pian"
+        },
+        {
+          "def": "photographies"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gelatinefolie",
+          "Foto"
+        ],
+        "zh-hant": [
+          "照片"
+        ],
+        "zh-latn-wadegile": [
+          "chao p'ien"
+        ],
+        "en": [
+          "gelatin silver transparencies",
+          "photography (discipline)",
+          "photographs"
+        ],
+        "zh-latn-pinyin-x-hanyu": [
+          "zhào piàn"
+        ],
+        "zh-latn-pinyin-x-notone": [
+          "zhao pian"
+        ],
+        "it": [
+          "fotografie",
+          "fotografia (disciplina)",
+          "trasparenze alla gelatina d'argento"
+        ],
+        "fr": [
+          "photographies"
+        ],
+        "es": [
+          "transparencias de plata en gelatina",
+          "fotografías (obra visual)"
+        ],
+        "nl": [
+          "gelatine-zilver transparanten",
+          "foto's",
+          "fotografie"
+        ]
+      },
+      "edmDatasetName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "edmIsShownBy": [
+        "https://lib.is/IE2398577/stream?quality=LOW"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2398577%2Fstream%3Fquality%3DLOW&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9990740460101488?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9990740460101488",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9990740460101488.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "PHOTOCONSORTIUM"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.891666,
+      "timestamp": 1635526307425,
+      "timestamp_created": "2019-10-07T11:00:43.516Z",
+      "timestamp_created_epoch": 1570446043516,
+      "timestamp_update": "2021-09-27T14:39:02.733Z",
+      "timestamp_update_epoch": 1632753542733,
+      "title": [
+        "Johannes Vermeer. De schilderkunst"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Catholic University of Leuven"
+      ],
+      "dcCreator": [
+        "Johannes Vermeer",
+        "http://data.europeana.eu/agent/base/60404"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "http://data.europeana.eu/agent/base/60404"
+        ],
+        "en": [
+          "Johannes Vermeer"
+        ]
+      },
+      "dcDescription": [
+        "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1663. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Nederland, Amsterdam, Rijksmuseum. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1663. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Nederland, Amsterdam, Rijksmuseum. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+        ]
+      },
+      "dcTitleLangAware": {
+        "nl": [
+          "Johannes Vermeer. Brieflezende vrouw"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300128675",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gelatinefolie"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "gelatin silver transparencies"
+        },
+        {
+          "def": "photography (discipline)"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "trasparenze alla gelatina d'argento"
+        },
+        {
+          "def": "fotografia (disciplina)"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "transparencias de plata en gelatina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "gelatine-zilver transparanten"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "照片"
+        },
+        {
+          "def": "chao p'ien"
+        },
+        {
+          "def": "zhào piàn"
+        },
+        {
+          "def": "zhao pian"
+        },
+        {
+          "def": "photographies"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gelatinefolie",
+          "Foto"
+        ],
+        "zh-hant": [
+          "照片"
+        ],
+        "zh-latn-wadegile": [
+          "chao p'ien"
+        ],
+        "en": [
+          "gelatin silver transparencies",
+          "photography (discipline)",
+          "photographs"
+        ],
+        "zh-latn-pinyin-x-hanyu": [
+          "zhào piàn"
+        ],
+        "zh-latn-pinyin-x-notone": [
+          "zhao pian"
+        ],
+        "it": [
+          "fotografie",
+          "fotografia (disciplina)",
+          "trasparenze alla gelatina d'argento"
+        ],
+        "fr": [
+          "photographies"
+        ],
+        "es": [
+          "transparencias de plata en gelatina",
+          "fotografías (obra visual)"
+        ],
+        "nl": [
+          "gelatine-zilver transparanten",
+          "foto's",
+          "fotografie"
+        ]
+      },
+      "edmDatasetName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "edmIsShownBy": [
+        "https://lib.is/IE2399018/stream?quality=LOW"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2399018%2Fstream%3Fquality%3DLOW&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9990939320101488?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9990939320101488",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9990939320101488.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "PHOTOCONSORTIUM"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.891666,
+      "timestamp": 1635526334114,
+      "timestamp_created": "2019-10-07T11:00:43.516Z",
+      "timestamp_created_epoch": 1570446043516,
+      "timestamp_update": "2021-09-27T14:39:02.733Z",
+      "timestamp_update_epoch": 1632753542733,
+      "title": [
+        "Johannes Vermeer. Brieflezende vrouw"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Catholic University of Leuven"
+      ],
+      "dcCreator": [
+        "http://data.europeana.eu/agent/base/60404",
+        "Johannes Vermeer"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "http://data.europeana.eu/agent/base/60404"
+        ],
+        "en": [
+          "Johannes Vermeer"
+        ]
+      },
+      "dcDescription": [
+        "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1662-1665. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Deutschland, Berlin, Staatlichen Museen zu Berlin, Gemäldegalerie. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1662-1665. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Deutschland, Berlin, Staatlichen Museen zu Berlin, Gemäldegalerie. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+        ]
+      },
+      "dcTitleLangAware": {
+        "nl": [
+          "Johannes Vermeer. Vrouw met parelsnoer"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300128675",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gelatinefolie"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "gelatin silver transparencies"
+        },
+        {
+          "def": "photography (discipline)"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "trasparenze alla gelatina d'argento"
+        },
+        {
+          "def": "fotografia (disciplina)"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "transparencias de plata en gelatina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "gelatine-zilver transparanten"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "照片"
+        },
+        {
+          "def": "chao p'ien"
+        },
+        {
+          "def": "zhào piàn"
+        },
+        {
+          "def": "zhao pian"
+        },
+        {
+          "def": "photographies"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gelatinefolie",
+          "Foto"
+        ],
+        "zh-hant": [
+          "照片"
+        ],
+        "zh-latn-wadegile": [
+          "chao p'ien"
+        ],
+        "en": [
+          "gelatin silver transparencies",
+          "photography (discipline)",
+          "photographs"
+        ],
+        "zh-latn-pinyin-x-hanyu": [
+          "zhào piàn"
+        ],
+        "zh-latn-pinyin-x-notone": [
+          "zhao pian"
+        ],
+        "it": [
+          "fotografie",
+          "fotografia (disciplina)",
+          "trasparenze alla gelatina d'argento"
+        ],
+        "fr": [
+          "photographies"
+        ],
+        "es": [
+          "transparencias de plata en gelatina",
+          "fotografías (obra visual)"
+        ],
+        "nl": [
+          "gelatine-zilver transparanten",
+          "foto's",
+          "fotografie"
+        ]
+      },
+      "edmDatasetName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "edmIsShownBy": [
+        "https://lib.is/IE2399032/stream?quality=LOW"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2399032%2Fstream%3Fquality%3DLOW&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9990939550101488?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9990939550101488",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9990939550101488.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "PHOTOCONSORTIUM"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.891666,
+      "timestamp": 1635526334361,
+      "timestamp_created": "2019-10-07T11:00:43.516Z",
+      "timestamp_created_epoch": 1570446043516,
+      "timestamp_update": "2021-09-27T14:39:02.733Z",
+      "timestamp_update_epoch": 1632753542733,
+      "title": [
+        "Johannes Vermeer. Vrouw met parelsnoer"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Catholic University of Leuven"
+      ],
+      "dcCreator": [
+        "http://data.europeana.eu/agent/base/60404",
+        "Johannes Vermeer"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "http://data.europeana.eu/agent/base/60404"
+        ],
+        "en": [
+          "Johannes Vermeer"
+        ]
+      },
+      "dcDescription": [
+        "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1662-1664. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: United Kingdom, Windsor, Windsor Castle. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: c.1662-1664. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: United Kingdom, Windsor, Windsor Castle. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+        ]
+      },
+      "dcTitleLangAware": {
+        "nl": [
+          "Johannes Vermeer. De muziekles"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300128675",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gelatinefolie"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "gelatin silver transparencies"
+        },
+        {
+          "def": "photography (discipline)"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "trasparenze alla gelatina d'argento"
+        },
+        {
+          "def": "fotografia (disciplina)"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "transparencias de plata en gelatina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "gelatine-zilver transparanten"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "照片"
+        },
+        {
+          "def": "chao p'ien"
+        },
+        {
+          "def": "zhào piàn"
+        },
+        {
+          "def": "zhao pian"
+        },
+        {
+          "def": "photographies"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gelatinefolie",
+          "Foto"
+        ],
+        "zh-hant": [
+          "照片"
+        ],
+        "zh-latn-wadegile": [
+          "chao p'ien"
+        ],
+        "en": [
+          "gelatin silver transparencies",
+          "photography (discipline)",
+          "photographs"
+        ],
+        "zh-latn-pinyin-x-hanyu": [
+          "zhào piàn"
+        ],
+        "zh-latn-pinyin-x-notone": [
+          "zhao pian"
+        ],
+        "it": [
+          "fotografie",
+          "fotografia (disciplina)",
+          "trasparenze alla gelatina d'argento"
+        ],
+        "fr": [
+          "photographies"
+        ],
+        "es": [
+          "transparencias de plata en gelatina",
+          "fotografías (obra visual)"
+        ],
+        "nl": [
+          "gelatine-zilver transparanten",
+          "foto's",
+          "fotografie"
+        ]
+      },
+      "edmDatasetName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "edmIsShownBy": [
+        "https://lib.is/IE2398591/stream?quality=LOW"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2398591%2Fstream%3Fquality%3DLOW&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9990740590101488?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9990740590101488",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9990740590101488.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "PHOTOCONSORTIUM"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.822645,
+      "timestamp": 1635526307746,
+      "timestamp_created": "2019-10-07T11:00:43.516Z",
+      "timestamp_created_epoch": 1570446043516,
+      "timestamp_update": "2021-09-27T14:39:02.733Z",
+      "timestamp_update_epoch": 1632753542733,
+      "title": [
+        "Johannes Vermeer. De muziekles"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Catholic University of Leuven"
+      ],
+      "dcCreator": [
+        "http://data.europeana.eu/agent/base/60404",
+        "Johannes Vermeer"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "http://data.europeana.eu/agent/base/60404"
+        ],
+        "en": [
+          "Johannes Vermeer"
+        ]
+      },
+      "dcDescription": [
+        "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: 1669. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Deutschland, Frankfurt, Städel Museum. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "KU Leuven. Glasdia’s kunstgeschiedenis. Université de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Barok. Creatie/Bouw: 1669. Techniek/Materiaal: Olieverf op paneel. Huidige locatie: Deutschland, Frankfurt, Städel Museum. EuroPhot. Kunstgeschiedenis. 17de eeuw. Schilderkunst. Genrestuk. EuroPhot. Art history. 17th century. Paintings. Genre."
+        ]
+      },
+      "dcTitleLangAware": {
+        "nl": [
+          "Johannes Vermeer. De astronoom"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300128675",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gelatinefolie"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "gelatin silver transparencies"
+        },
+        {
+          "def": "photography (discipline)"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "trasparenze alla gelatina d'argento"
+        },
+        {
+          "def": "fotografia (disciplina)"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "transparencias de plata en gelatina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "gelatine-zilver transparanten"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "照片"
+        },
+        {
+          "def": "chao p'ien"
+        },
+        {
+          "def": "zhào piàn"
+        },
+        {
+          "def": "zhao pian"
+        },
+        {
+          "def": "photographies"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gelatinefolie",
+          "Foto"
+        ],
+        "zh-hant": [
+          "照片"
+        ],
+        "zh-latn-wadegile": [
+          "chao p'ien"
+        ],
+        "en": [
+          "gelatin silver transparencies",
+          "photography (discipline)",
+          "photographs"
+        ],
+        "zh-latn-pinyin-x-hanyu": [
+          "zhào piàn"
+        ],
+        "zh-latn-pinyin-x-notone": [
+          "zhao pian"
+        ],
+        "it": [
+          "fotografie",
+          "fotografia (disciplina)",
+          "trasparenze alla gelatina d'argento"
+        ],
+        "fr": [
+          "photographies"
+        ],
+        "es": [
+          "transparencias de plata en gelatina",
+          "fotografías (obra visual)"
+        ],
+        "nl": [
+          "gelatine-zilver transparanten",
+          "foto's",
+          "fotografie"
+        ]
+      },
+      "edmDatasetName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "edmIsShownBy": [
+        "https://lib.is/IE2399025/stream?quality=LOW"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2399025%2Fstream%3Fquality%3DLOW&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9990939540101488?utm_source=api&utm_medium=api&utm_campaign=blabalket",
+      "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9990939540101488",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9990939540101488.json?wskey=blabalket",
+      "previewNoDistribute": false,
+      "provider": [
+        "PHOTOCONSORTIUM"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.822645,
+      "timestamp": 1635526334233,
+      "timestamp_created": "2019-10-07T11:00:43.516Z",
+      "timestamp_created_epoch": 1570446043516,
+      "timestamp_update": "2021-09-27T14:39:02.733Z",
+      "timestamp_update_epoch": 1632753542733,
+      "title": [
+        "Johannes Vermeer. De astronoom"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1669"
+      ]
+    }
+  ]
+}
