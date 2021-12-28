@@ -9,11 +9,15 @@ class SearchPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(
-        children: [
-          SearchFormArtefacts(key: key),
-          ArtefactsList(key: key),
-        ],
+      backgroundColor: Colors.brown,
+      body: Padding(
+        padding: const EdgeInsets.all(20.0),
+        child: Column(
+          children: [
+            SearchFormArtefacts(key: key),
+            ArtefactsList(key: key),
+          ],
+        ),
       ),
     );
   }

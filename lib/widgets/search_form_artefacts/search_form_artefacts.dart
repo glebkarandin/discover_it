@@ -27,10 +27,16 @@ class SearchFormState extends State<SearchFormArtefacts> {
         child: Form(
             key: _formKey,
             child: Column(
+              mainAxisSize: MainAxisSize.min,
               children: <Widget>[
                 const Text('Введите поисковый запрос'),
                 TextFormField(
                   decoration: const InputDecoration(
+                    filled: true,
+                    fillColor: Colors.white,
+                    border: OutlineInputBorder(
+                      borderRadius: BorderRadius.all(Radius.circular(15.0))
+                    ),
                     hintText: 'Например vermeer',
                   ),
                   onChanged: (value) {
@@ -40,14 +46,27 @@ class SearchFormState extends State<SearchFormArtefacts> {
                     dev.log('change value : $value');
                   },
                 ),
-                ElevatedButton(
-                    onPressed: () {
-                      dev.log('form key state: ${_formKey.currentState}');
-                      dev.log('query string $queryString');
-                      context.read<EuropeanaBloc>().add(EuropeanaSearchEvent(queryString));
-                      Beamer.of(context).beamToNamed('/artefacts');
-                    },
-                    child: const Text('submit')
+                Container(
+                  margin: const EdgeInsets.only(top: 15.0),
+                  child: ElevatedButton(
+                      style: ButtonStyle(
+                        shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+                          const RoundedRectangleBorder(
+                            borderRadius: BorderRadius.all(Radius.circular(15.0))
+                          )
+                        )
+                      ),
+                      onPressed: () {
+                        dev.log('form key state: ${_formKey.currentState}');
+                        dev.log('query string $queryString');
+                        context.read<EuropeanaBloc>().add(EuropeanaSearchEvent(queryString));
+                        Beamer.of(context).beamToNamed('/artefacts');
+                      },
+                      child: const Padding(
+                        padding: EdgeInsets.all(15.0),
+                        child: Text('submit'),
+                      )
+                  ),
                 )
               ],
             )

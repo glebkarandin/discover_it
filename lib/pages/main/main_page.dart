@@ -17,7 +17,10 @@ class MainPage extends StatelessWidget {
             fit: BoxFit.cover,
           ),
         ),
-        child: SearchFormArtefacts()
+        child: Padding(
+            padding: EdgeInsets.all(20.0),
+            child: SearchFormArtefacts()
+        )
       ),
       bottomNavigationBar: BottomAppBar(
         child: Text('домой : список : поиск'),

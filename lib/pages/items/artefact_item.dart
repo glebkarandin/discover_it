@@ -9,11 +9,15 @@ class ArtefactItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.brown,
       body: BlocBuilder<EuropeanaBloc, EuropeanaState>(
           builder: (context, state) {
             if (state is EuropeanaRecordCompleteState) {
               var record = state.record;
-              return Center(
+              return Container(
+                constraints: const BoxConstraints.expand(),
+                margin: const EdgeInsets.all(20.0),
+                color: Colors.white,
                 child: Text('state ${record.object}'),
               );
             }

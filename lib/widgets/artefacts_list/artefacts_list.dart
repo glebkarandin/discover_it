@@ -30,15 +30,21 @@ class ArtefactsList extends StatelessWidget {
                       Beamer.of(context).beamToNamed('/artefacts/2');
                       context.read<EuropeanaBloc>().add(EuropeanaRecordEvent(artefactId));
                     },
-                    child: Row(
-                      children: [
-                        Expanded(
-                            child: Image.network(imageUri)
-                        ),
-                        Expanded(
-                            child: Text('completeness : ${artefact.completeness}')
-                        ),
-                      ],
+                    child: Container(
+                      margin: const EdgeInsets.only(bottom: 5.0),
+                      padding: const EdgeInsets.all(5.0),
+                      color: Colors.white,
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.start,
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Expanded(
+                              child: Image.network(imageUri)
+                          ),
+                          const SizedBox(width: 10.0),
+                          Text('completeness : ${artefact.completeness}'),
+                        ],
+                      ),
                     ),
                   );
                 }
