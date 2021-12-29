@@ -18,7 +18,6 @@ class ArtefactsList extends StatelessWidget {
             dev.log('state : ${state.artefacts}');
             var list = state.artefacts.map((artefact)
                 {
-                  dev.log('artefact : ${artefact.completeness}');
                   var edmPreview = artefact.edmPreview ?? [];
                   var artefactId = artefact.id ?? '';
                   var imageUri = edmPreview.isNotEmpty ? edmPreview[0] : '';

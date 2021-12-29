@@ -27,7 +27,12 @@ class ArtefactItem extends StatelessWidget {
                 constraints: const BoxConstraints.expand(),
                 margin: const EdgeInsets.all(20.0),
                 color: Colors.white,
-                child: Text('title : ${artefact.edmPreview}')
+                child: Column(
+                  children: [
+                    Text('title : ${artefact.title[0]}'),
+                    Text('url preview : ${artefact.edmPreview}'),
+                  ],
+                )
               );
             }
             return const Center(

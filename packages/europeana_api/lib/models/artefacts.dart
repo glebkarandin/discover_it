@@ -20,6 +20,7 @@ class Artefact {
     required this.completeness,
     required this.edmPreview,
     required this.id,
+    required this.title,
   });
 
   factory Artefact.fromJson(Map<String, dynamic> json) =>
@@ -28,6 +29,7 @@ class Artefact {
   final int? completeness;
   final List<String>? edmPreview;
   final String? id;
+  final List<String> title;
 
   @override
   String toString() {
