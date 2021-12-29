@@ -33,7 +33,15 @@ Artefact _$ArtefactFromJson(Map<String, dynamic> json) => $checkedCreate(
               (v) => (v as List<dynamic>?)?.map((e) => e as String).toList()),
           id: $checkedConvert('id', (v) => v as String?),
           title: $checkedConvert('title',
-              (v) => (v as List<dynamic>).map((e) => e as String).toList()),
+              (v) => (v as List<dynamic>?)?.map((e) => e as String).toList()),
+          dataProvider: $checkedConvert('dataProvider',
+              (v) => (v as List<dynamic>?)?.map((e) => e as String).toList()),
+          country: $checkedConvert('country',
+              (v) => (v as List<dynamic>?)?.map((e) => e as String).toList()),
+          edmPlaceLatitude: $checkedConvert('edmPlaceLatitude',
+              (v) => (v as List<dynamic>?)?.map((e) => e as String).toList()),
+          edmPlaceLongitude: $checkedConvert('edmPlaceLongitude',
+              (v) => (v as List<dynamic>?)?.map((e) => e as String).toList()),
         );
         return val;
       },

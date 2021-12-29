@@ -23,13 +23,15 @@ class ArtefactItem extends StatelessWidget {
             }
             if (state is EuropeanaItemViewState) {
               var artefact = state.artefact;
+              var titles = artefact.title ?? [];
+              var title = titles.isNotEmpty ? titles[0] : '';
               return Container(
                 constraints: const BoxConstraints.expand(),
                 margin: const EdgeInsets.all(20.0),
                 color: Colors.white,
                 child: Column(
                   children: [
-                    Text('title : ${artefact.title[0]}'),
+                    Text('title : $title'),
                     Text('url preview : ${artefact.edmPreview}'),
                   ],
                 )
