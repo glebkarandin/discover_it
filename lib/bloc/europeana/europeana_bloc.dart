@@ -11,6 +11,7 @@ class EuropeanaBloc extends Bloc<EuropeanaEvent, EuropeanaState> {
   EuropeanaBloc(EuropeanaState initialState) : super(initialState) {
     on<EuropeanaSearchEvent>(_onSearchEvent);
     on<EuropeanaRecordEvent>(_onRecordEvent);
+    on<EuropeanaItemViewEvent>(_onItemViewEvent);
   }
 
   void _onSearchEvent (event, emit) async {
@@ -36,5 +37,9 @@ class EuropeanaBloc extends Bloc<EuropeanaEvent, EuropeanaState> {
     } catch (e) {
 
     }
+  }
+
+  void _onItemViewEvent(event, emit) async {
+    emit(EuropeanaItemViewState(event.artefact));
   }
 }

@@ -15,8 +15,8 @@ class ArtefactsList extends StatelessWidget {
     return BlocBuilder<EuropeanaBloc, EuropeanaState>(
         builder: (context, state) {
           if(state is EuropeanaSearchCompleteState) {
-            dev.log('state : ${state.items.items}');
-            var list = state.items.items.map((artefact)
+            dev.log('state : ${state.artefacts}');
+            var list = state.artefacts.map((artefact)
                 {
                   dev.log('artefact : ${artefact.completeness}');
                   var edmPreview = artefact.edmPreview ?? [];
@@ -28,7 +28,8 @@ class ArtefactsList extends StatelessWidget {
                       ScaffoldMessenger.of(context).showSnackBar(snackBar);
                       //TODO artefactId
                       Beamer.of(context).beamToNamed('/artefacts/2');
-                      context.read<EuropeanaBloc>().add(EuropeanaRecordEvent(artefactId));
+                      context.read<EuropeanaBloc>().add(EuropeanaItemViewEvent(artefact));
+                      // context.read<EuropeanaBloc>().add(EuropeanaRecordEvent(artefactId));
                     },
                     child: Container(
                       margin: const EdgeInsets.only(bottom: 5.0),

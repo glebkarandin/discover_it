@@ -21,6 +21,15 @@ class ArtefactItem extends StatelessWidget {
                 child: Text('state ${record.object}'),
               );
             }
+            if (state is EuropeanaItemViewState) {
+              var artefact = state.artefact;
+              return Container(
+                constraints: const BoxConstraints.expand(),
+                margin: const EdgeInsets.all(20.0),
+                color: Colors.white,
+                child: Text('title : ${artefact.edmPreview}')
+              );
+            }
             return const Center(
                 child: Text('artefact item')
             );

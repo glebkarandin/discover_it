@@ -7,15 +7,21 @@ class EuropeanaStateInit extends EuropeanaState {}
 class EuropeanaStateLoading extends EuropeanaState {}
 
 class EuropeanaSearchCompleteState extends EuropeanaState {
-  EuropeanaSearchCompleteState(this.artefacts);
+  EuropeanaSearchCompleteState(this.response);
 
-  Artefacts artefacts;
+  Artefacts response;
 
-  Artefacts get items => artefacts;
+  List<Artefact> get artefacts => response.items;
 }
 
 class EuropeanaRecordCompleteState extends EuropeanaState {
   EuropeanaRecordCompleteState(this.record);
 
   ArtefactRecord record;
+}
+
+class EuropeanaItemViewState extends EuropeanaState {
+  EuropeanaItemViewState(this.artefact);
+
+  Artefact artefact;
 }
