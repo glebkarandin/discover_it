@@ -13,7 +13,7 @@ class MainPage extends StatelessWidget {
       body: DecoratedBox(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage("images/salzburg.jpg"),
+            image: AssetImage("images/main_bg.jpg"),
             fit: BoxFit.cover,
           ),
         ),
