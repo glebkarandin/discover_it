@@ -1,3 +1,4 @@
+import 'package:europeana/api/europeana_api_client.dart';
 import 'package:flutter/material.dart';
 import 'package:beamer/beamer.dart';
 
@@ -13,6 +14,9 @@ void main() async {
   // var repo = EuropeanaRepository();
   // var results = repo.getArtefacts('vermeer');
   // dev.log('results : $results');
+
+  final api = EuropeanaApiClient();
+  final artefacts = api.apiSearch('vermeer');
 
   runApp(MyApp());
 }

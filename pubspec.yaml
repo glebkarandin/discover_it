@@ -33,6 +33,8 @@ dependencies:
   flutter_bloc: ^8.0.0
   equatable: ^2.0.3
   beamer: ^1.1.0
+  europeana:
+    path: packages/europeana
   europeana_repository:
     path: packages/europeana_repository
 
