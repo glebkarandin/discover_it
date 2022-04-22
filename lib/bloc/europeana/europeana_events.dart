@@ -1,4 +1,4 @@
-import 'package:europeana_api/europeana_api.dart';
+import 'package:europeana/europeana.dart';
 
 abstract class EuropeanaEvent {}
 

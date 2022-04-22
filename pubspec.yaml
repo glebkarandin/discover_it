@@ -35,8 +35,6 @@ dependencies:
   beamer: ^1.1.0
   europeana:
     path: packages/europeana
-  europeana_repository:
-    path: packages/europeana_repository
 
 
   # The following adds the Cupertino Icons font to your application.

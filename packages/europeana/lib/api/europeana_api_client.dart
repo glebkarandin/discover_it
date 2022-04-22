@@ -1,5 +1,4 @@
 import 'dart:async';
-import 'dart:convert';
 
 import 'package:dio/dio.dart';
 import 'package:europeana/europeana.dart';
@@ -11,33 +10,27 @@ class EuropeanaApiClient {
 
   Future<Artefacts> apiSearch(String query) async {
     final dioClient = Dio();
-    final response = await dioClient.get(
+    Response response = await dioClient.get(
       '$_baseUrl/record/v2/search.json',
       queryParameters: {
         'wskey': 'blabalket',
         'query': query
       }
     );
-    final responseJson = jsonDecode(response.data) as Map<String, dynamic>;
+    // dev.log('response status code : ${response.statusCode}');
 
-    return Artefacts.fromJson(responseJson);
+    return Artefacts.fromJson(response.data);
   }
 
-  // Future<Artefacts> apiSearch(String query) async {
-  //
-  //   final uriRequest = Uri.https(
-  //     _baseUrl,
-  //     '/record/v2/search.json',
-  //       <String, String>{
-  //         'wskey': 'blabalket',
-  //         'query': query
-  //       }
-  //   );
-  //
-  //   final response = await http.get(uriRequest);
-  //
-  //   final responseJson = jsonDecode(response.body) as Map<String, dynamic>;
-  //
-  //
-  // }
+  Future<ArtefactRecord> apiRecord(String recordId) async {
+    final dioClient = Dio();
+    Response response = await dioClient.get(
+      '$_baseUrl/record/v2/$recordId.json',
+      queryParameters: {
+        'wskey': 'blabalket',
+      }
+    );
+
+    return ArtefactRecord.fromJson(response.data);
+  }
 }

@@ -148,20 +148,6 @@ packages:
       relative: true
     source: path
     version: "0.0.1"
-  europeana_api:
-    dependency: transitive
-    description:
-      path: "packages/europeana_api"
-      relative: true
-    source: path
-    version: "0.0.1"
-  europeana_repository:
-    dependency: "direct main"
-    description:
-      path: "packages/europeana_repository"
-      relative: true
-    source: path
-    version: "0.0.1"
   fake_async:
     dependency: transitive
     description:
@@ -219,13 +205,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.2"
-  http:
-    dependency: transitive
-    description:
-      name: http
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.13.4"
   http_multi_server:
     dependency: transitive
     description:
