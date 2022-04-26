@@ -13,7 +13,7 @@ class EuropeanaApiClient {
     Response response = await dioClient.get(
       '$_baseUrl/record/v2/search.json',
       queryParameters: {
-        'wskey': 'blabalket',
+        'wskey': '',
         'query': query
       }
     );
