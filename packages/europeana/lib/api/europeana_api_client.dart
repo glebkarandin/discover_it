@@ -27,7 +27,7 @@ class EuropeanaApiClient {
     Response response = await dioClient.get(
       '$_baseUrl/record/v2/$recordId.json',
       queryParameters: {
-        'wskey': 'blabalket',
+        'wskey': '',
       }
     );
 
